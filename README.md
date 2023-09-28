@@ -1,3 +1,5 @@
+<img src="medias/logo.png" align="left">
+
 Arduino Components
 SEMICOLON Tech
 Alor Setar, Kedah, Malaysia
