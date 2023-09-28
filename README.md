@@ -32,7 +32,7 @@
 <td>Arduino Board/ Microcontroller</td>
 <td>DIP UNO R3</td>
 <td>Board + Cable</td>
-<td><img src="medias/a-dip-1.jpg"></td>
+<td><img src="medias/a-dip-2.jpg"></td>
 <td>40.00</td>
 <td></td>
 </tr>
@@ -41,7 +41,7 @@
 <td>Soldering Iron</td>
 <td>60 W Adjustable Temperature</td>
 <td></td>
-<td><img src="medias/soldering-iron-1.jpg"></td>
+<td><img src="medias/si-3.jpg"></td>
 <td>10.00</td>
 <td></td>
 </tr>
@@ -50,7 +50,7 @@
 <td>Soldering Wire</td>
 <td></td>
 <td></td>
-<td><img src="medias/soldering-wire-1.jpg"></td>
+<td><img src="medias/s-i-w-4.jpg"></td>
 <td>4.00</td>
 <td></td>
 </tr>
@@ -59,7 +59,7 @@
 <td>Glue Gun</td>
 <td></td>
 <td>Stick + Glue Gun</td>
-<td><img src="medias/glue-gun-1.jpg"></td>
+<td><img src="medias/g-g-5.jpg"></td>
 <td></td>
 <td></td>
 </tr>
@@ -68,7 +68,7 @@
 <td>Battery Clip</td>
 <td>9V</td>
 <td>6 batteries Cover + Pin</td>
-<td><img src="medias/battery-clip-1.jpg"></td>
+<td><img src="medias/b-c-6.jpg"></td>
 <td>2.00+1.00</td>
 <td></td>
 </tr>
@@ -77,7 +77,7 @@
 <td>Breadboard</td>
 <td>Solderless experiment</td>
 <td>Full Size</td>
-<td><img src="medias/breadboard-1.jpg"></td>
+<td><img src="medias/bb-7.jpg"></td>
 <td>0.90~ 5.00</td>
 <td></td>
 </tr>
@@ -87,7 +87,7 @@
 <td>Make connection on the breadboard</td>
 <td>* Male to Male
 * Female to Male</td>
-<td><img src="medias/jumper-wire-1.jpg"></td>
+<td><img src="medias/wire-8.jpg"></td>
 <td></td>
 <td></td>
 </tr>
@@ -103,7 +103,7 @@
 
 1M-ohm 
 </td>
-<td><img src="medias/resistor-1.jpg"></td>
+<td><img src="medias/r-9.jpg"></td>
 <td></td>
 <td></td>
 </tr>
@@ -112,7 +112,7 @@
 <td>LED</td>
 <td>red, green, yellow, blue</td>
 <td>5 mm LED</td>
-<td><img src="medias/led-1.jpg"></td>
+<td><img src="medias/L-10.jpg></td>
 <td></td>
 <td></td>
 </tr>
@@ -121,9 +121,9 @@
 
 </table>
 
----|---|---|---
-saky|saky|saky
----|---|---|---
+|---|---|---|---|
+|saky|saky|saky|
+|---|---|---|---|
 
 SL No.	Hardware Name	Details/
 Comments	Variation	Picture	Price (RM)	Stock/
