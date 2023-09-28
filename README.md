@@ -1,9 +1,9 @@
+<div>
 <img src="medias/logo.png" width="20%" style="align:center;">
-<h1 style="color:blue;text-align:center;">Arduino Components</h1>
-<p style="color:red;">This is a paragraph.</p>
-<h1 style="align:centre">kkk</h1>
-SEMICOLON Tech
-Alor Setar, Kedah, Malaysia
+<h1 style="align:center;">Arduino Components</h1>
+<h2 style="align:center;">SEMICOLON</h2>
+<h5 style="align:center;">Alor Setar, Kedah, Malaysia</h5>
+</div>
 
    Ref no: Semicolon Tech/IoT/Arduino/Components-List-01			               	Date: 23/09/2023
 
