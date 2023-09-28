@@ -8,6 +8,7 @@
 <i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
 <table>
 <caption>Arduino Components List</caption>
+<br>
 <tr>
 <th>SL No.</th>
 <th>Hardware Name</th>
@@ -17,6 +18,12 @@
 <th>Price (RM)</th>
 <th>Stock/ Need</th>
 <tr>
+<td>01</td>
+<td>Arduino Board/ Microcontroller</td>
+<td>UNO R3-SMD</td>
+<td>Board + Cable</td>
+<td><img src="medias/a-smd-1.jpg" width="20%" style="align:center;"></td>
+<td>17.00</td>
 </table>
 SL No.	Hardware Name	Details/
 Comments	Variation	Picture	Price (RM)	Stock/
