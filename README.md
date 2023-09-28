@@ -208,6 +208,185 @@
 <td></td>
 </tr>
 <tr>
+<td>21</td>
+<td>LED Display/ LCD Display</td>
+<td>LCD 1602/ 2004</td>
+<td></td>
+<td><img src="medias/LED-21.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Seven Segment Display</td>
+<td>LED Module</td>
+<td>TM1637</td>
+<td><img src="medias/D-22.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Temperature and Humidity Sensor</td>
+<td></td>
+<td>DHT11</td>
+<td><img src="medias/T-23.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>Tilt Ball Switch</td>
+<td></td>
+<td></td>
+<td><img src="medias/" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>8×8 rgb led matrix</td>
+<td></td>
+<td></td>
+<td><img src="medias/rgb-25.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>IR Obstacle avoidance Sensor</td>
+<td>Car robot</td>
+<td>3 pin/ 4 pin</td>
+<td><img src="medias/IR-obs-26.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>IR Flame fire detector</td>
+<td>Fire detecting robot</td>
+<td>3 pin/4 pin</td>
+<td><img src="medias/IR-F-27.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Human Living Animal Motion Detect Detector Sensor</td>
+<td></td>
+<td>HC SR501 PIR(Passive infrared)</td>
+<td><img src="medias/H-28.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>RFID Card Reader Module</td>
+<td></td>
+<td>RC522 MFRC522</td>
+<td><img src="medias/R-29.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>IC Shift Register</td>
+<td></td>
+<td>74HC595</td>
+<td><img src="medias/IC-30.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Microcontroller Chip</td>
+<td>Used in Arduino UNO board</td>
+<td>ATMEL ATmega328p</td>
+<td><img src="medias/M-c-31.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>16 MHz crystal oscillator (HC-495)</td>
+<td></td>
+<td></td>
+<td><img src="medias/os-32.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Voltage Regulator</td>
+<td>3 pin transistor</td>
+<td>L7895CV 5V</td>
+<td><img src="medias/v-33.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>100uF Electrolytic Capacitor</td>
+<td></td>
+<td>50V/ 25V/ 16V</td>
+<td><img src="medias/c-34.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>9V Heavy Duty Battery</td>
+<td></td>
+<td>Battery + Battery Holder + Pin</td>
+<td><img src="medias/b-35.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td>Buzzer Module</td>
+<td></td>
+<td>Active/ Passive</td>
+<td><img src="medias/bu-36.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Gearbox Motor</td>
+<td>DIY/Arduino</td>
+<td>Forward/ Reverse</td>
+<td><img src="medias/g-37.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td>Mini Micro Dc Motor</td>
+<td>DIY/Arduino</td>
+<td>1220 Motor 3V9500 Rpm</td>
+<td><img src="medias/m-38.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>Mini DC motor</td>
+<td>DIY/Arduino</td>
+<td>3V, 1.3 A</td>
+<td><img src="medias/m-m-39.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>2 mm Plastic Wheel</td>
+<td>DIY/Arduino</td>
+<td></td>
+<td><img src="medias/w-40.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
 
 </table>
 
