@@ -1,5 +1,7 @@
 <img src="medias/logo.png" width="20%" style="align:left;">
-<h1 style="align:centre">Arduino Components</h1>
+<h1 style="color:blue;text-align:center;">Arduino Components</h1>
+<p style="color:red;">This is a paragraph.</p>
+<h1 style="align:centre">kkk</h1>
 SEMICOLON Tech
 Alor Setar, Kedah, Malaysia
 
