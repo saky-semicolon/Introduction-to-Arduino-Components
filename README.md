@@ -23,7 +23,7 @@
 <td>Arduino Board/ Microcontroller</td>
 <td>UNO R3-SMD</td>
 <td>Board + Cable</td>
-<td><img src="medias/a-smd-1.jpg" width="20px"></td>
+<td><img src="medias/a-smd-1.jpg" width="15%"></td>
 <td>17.00</td>
 <td></td>
 </tr>
