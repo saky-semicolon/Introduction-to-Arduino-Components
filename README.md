@@ -8,7 +8,7 @@
 <i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
 <br>
 <table>
-<caption>Arduino Components List</caption>
+<caption align="center">Arduino Components List</caption>
 <br>
 <tr>
 <th>SL No.</th>
