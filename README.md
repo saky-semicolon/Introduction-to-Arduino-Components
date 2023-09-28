@@ -1,12 +1,11 @@
-<div style="align-items:center;">
+
 <h1 style="text-align:center;">Arduino Components</h1>
 <img src="medias/arduino-logo.jpg" width="20%" style="align:center;">
 <h2 style="text-align:center;">SEMICOLON</h2>
 <img src="medias/logo.png" width="20%" style="align:center;">
 <h4 style="text-align:center;">Alor Setar, Kedah, Malaysia</h4>
-</div>
-
-   Ref no: Semicolon Tech/IoT/Arduino/Components-List-01			               	Date: 23/09/2023
+<hr>
+<i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
 
 SL No.	Hardware Name	Details/
 Comments	Variation	Picture	Price (RM)	Stock/
