@@ -6,6 +6,7 @@
 <h4 style="text-align:center;">Alor Setar, Kedah, Malaysia</h4>
 <hr>
 <i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
+<br>
 <table>
 <caption>Arduino Components List</caption>
 <br>
@@ -17,6 +18,7 @@
 <th>Picture</th>
 <th>Price (RM)</th>
 <th>Stock/ Need</th>
+</tr>
 <tr>
 <td>01</td>
 <td>Arduino Board/ Microcontroller</td>
@@ -25,7 +27,13 @@
 <td><img src="medias/a-smd-1.jpg"></td>
 <td>17.00</td>
 <td></td>
+</tr>
 </table>
+
+---|---|---|---
+saky|saky|saky
+---|---|---|---
+
 SL No.	Hardware Name	Details/
 Comments	Variation	Picture	Price (RM)	Stock/
 Need
