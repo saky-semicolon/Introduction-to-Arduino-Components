@@ -1,4 +1,4 @@
-<img src="medias/logo.png" width="20%" style="align:left;">
+<img src="medias/logo.png" width="20%" style="align:center;">
 <h1 style="color:blue;text-align:center;">Arduino Components</h1>
 <p style="color:red;">This is a paragraph.</p>
 <h1 style="align:centre">kkk</h1>
