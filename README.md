@@ -1,4 +1,4 @@
-<div>
+<div style="align:center;">
 <img src="medias/logo.png" width="20%" style="align:center;">
 <h1 style="text-align:center;">Arduino Components</h1>
 <img src="medias/arduino-logo.jpg" width="20%" style="align:center;">
