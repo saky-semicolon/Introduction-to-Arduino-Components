@@ -1,6 +1,5 @@
-<img src="medias/logo.png" width="20%">
-
-Arduino Components
+<img src="medias/logo.png" width="20%" style="align:left;">
+<h1 style="align:centre">Arduino Components</h1>
 SEMICOLON Tech
 Alor Setar, Kedah, Malaysia
 
