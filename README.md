@@ -1,4 +1,4 @@
-<img src="medias/logo.png" align="left" weight="20%">
+<img src="medias/logo.png" weidht="20%">
 
 Arduino Components
 SEMICOLON Tech
