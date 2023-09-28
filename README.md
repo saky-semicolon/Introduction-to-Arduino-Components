@@ -8,8 +8,7 @@
 <i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
 <br>
 <table>
-<caption align="center">Arduino Components List</caption>
-<br>
+<caption><b>Arduino Components List</b></caption>
 <tr>
 <th>SL No.</th>
 <th>Hardware Name</th>
@@ -28,6 +27,98 @@
 <td>17.00</td>
 <td></td>
 </tr>
+<tr>
+<td>02</td>
+<td>Arduino Board/ Microcontroller</td>
+<td>DIP UNO R3</td>
+<td>Board + Cable</td>
+<td><img src="medias/a-dip-1.jpg"></td>
+<td>40.00</td>
+<td></td>
+</tr>
+<tr>
+<td>03</td>
+<td>Soldering Iron</td>
+<td>60 W Adjustable Temperature</td>
+<td></td>
+<td><img src="medias/soldering-iron-1.jpg"></td>
+<td>10.00</td>
+<td></td>
+</tr>
+<tr>
+<td>04</td>
+<td>Soldering Wire</td>
+<td></td>
+<td></td>
+<td><img src="medias/soldering-wire-1.jpg"></td>
+<td>4.00</td>
+<td></td>
+</tr>
+<tr>
+<td>05</td>
+<td>Glue Gun</td>
+<td></td>
+<td>Stick + Glue Gun</td>
+<td><img src="medias/glue-gun-1.jpg"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06</td>
+<td>Battery Clip</td>
+<td>9V</td>
+<td>6 batteries Cover + Pin</td>
+<td><img src="medias/battery-clip-1.jpg"></td>
+<td>2.00+1.00</td>
+<td></td>
+</tr>
+<tr>
+<td>07</td>
+<td>Breadboard</td>
+<td>Solderless experiment</td>
+<td>Full Size</td>
+<td><img src="medias/breadboard-1.jpg"></td>
+<td>0.90~ 5.00</td>
+<td></td>
+</tr>
+<tr>
+<td>08</td>
+<td>Jumper Wires</td>
+<td>Make connection on the breadboard</td>
+<td>* Male to Male
+* Female to Male</td>
+<td><img src="medias/jumper-wire-1.jpg"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09</td>
+<td>Resistors</td>
+<td></td>
+<td>330-ohm 330-ohm 
+
+470-ohm 
+
+10k-ohm
+
+1M-ohm 
+</td>
+<td><img src="medias/resistor-1.jpg"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>LED</td>
+<td>red, green, yellow, blue</td>
+<td>5 mm LED</td>
+<td><img src="medias/led-1.jpg"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+
 </table>
 
 ---|---|---|---
