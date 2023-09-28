@@ -6,7 +6,18 @@
 <h4 style="text-align:center;">Alor Setar, Kedah, Malaysia</h4>
 <hr>
 <i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
-
+<table>
+<caption>Arduino Components List</caption>
+<tr>
+<th>SL No.</th>
+<th>Hardware Name</th>
+<th>Details/ Comments</th>
+<th>Variation</th>
+<th>Picture</th>
+<th>Price (RM)</th>
+<th>Stock/ Need</th>
+<tr>
+</table>
 SL No.	Hardware Name	Details/
 Comments	Variation	Picture	Price (RM)	Stock/
 Need
