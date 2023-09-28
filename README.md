@@ -1,6 +1,6 @@
 
 <h1 style="text-align:center;">Arduino Components</h1>
-<img src="medias/arduino-logo-bg.jpg" width="20%" style="align:center;">
+<img src="medias/arduino-logo-bg.png" width="20%" style="align:center;">
 <h2 style="text-align:center;">SEMICOLON</h2>
 <img src="medias/logo.png" width="20%" style="align:center;">
 <h4 style="text-align:center;">Alor Setar, Kedah, Malaysia</h4>
