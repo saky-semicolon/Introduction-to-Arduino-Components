@@ -118,6 +118,96 @@
 </tr>
 <tr>
 <td>11</td>
+<td>Potentiometer</td>
+<td></td>
+<td>50k-ohm</td>
+<td><img src="medias/p-11.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Momentary tactile four-pin pushbuttons</td>
+<td></td>
+<td></td>
+<td><img src="medias/m-12.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Hygrometer soil moisture sensor</td>
+<td></td>
+<td></td>
+<td><img src="medias/H-13.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Piezo Buzzer</td>
+<td>DIY Arduino</td>
+<td>3V/ 5V</td>
+<td><img src="medias/P-14.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Servo Motor</td>
+<td>Metal/ Plastic gear</td>
+<td>180 deg/ 360 deg</td>
+<td><img src="medias/s-15.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>photoresistor (also known as a light resistor, or LDR)</td>
+<td></td>
+<td></td>
+<td><img src="medias/p-0-16.png" width="300px"><img src="medias/p-16.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Joystick module</td>
+<td></td>
+<td>* One axis/ X axis
+* Two axis/ X, Y axis</td>
+<td><img src="medias/j-17.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>IR Remote control</td>
+<td>Infrared receiver</td>
+<td>VS183B</td>
+<td><img src="medias/ir-18.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>four-pin ultrasonic range sensor</td>
+<td>To detect objects</td>
+<td>hc-sr04</td>
+<td><img src="medias/u-s-19.jpg" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>4 * 4 Matrix Array for Arduino</td>
+<td></td>
+<td>16 Key</td>
+<td><img src="medias/ak-20.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 
 </table>
 
