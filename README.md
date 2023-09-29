@@ -12,7 +12,7 @@ Arduino is an open-source electronics platform that consists of both hardware an
 Remember that the specific components you need will vary depending on your project's requirements. Arduino's versatility allows you to build a wide range of projects, from simple LED blinking experiments to complex robotics and automation systems. Here are the main components of an Arduino setup:
 
 <table>
-<caption style="align:center;" ><b>Arduino Components List</b></caption>
+<caption style="color:green;" ><b>Arduino Components List</b></caption>
 <tr>
 <th>SL No.</th>
 <th>Hardware Name</th>
