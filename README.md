@@ -535,12 +535,13 @@ Remember that the specific components you need will vary depending on your proje
 <td colspan="7"><b><i>Contributor:</i></b></td>
 </tr>
 <tr>
-<td style="align:center;" colspan="7"><a href="https://github.com/saky-semicolon">S M Asiful Islam Saky</a> <br> Founder, <br> SEMICOLON <br> Alor Setar, Kedah, Malaysia<br><a href="mailto:edu.semicolon@gmial.com" > Send e-mail </a> </td>
+<td style="align:center;" colspan="7"><a href="https://github.com/saky-semicolon">S M Asiful Islam Saky</a> <br> Founder, <br> SEMICOLON <br> Alor Setar, Kedah, Malaysia<br><a href="mailto:edu.semicolon@gmail.com" > Send e-mail </a> </td>
 </tr>
 <tr>
 <td colspan="7"><i>Thank you...</i></td>
 </tr>
 </table>
-<b><i>Note: </i></b> This is a list of components for Arduino. The list is not complete. It is just a demo list for now. It will be updated regularly. If you have any suggestions or if you want to contribute in this repository, please let us know- <a href="mailto:edu.semicolon@gmial.com" > E-mail Us </a>. Thank you! 
+<b><i>Note: </i></b> This is a list of components for Arduino. The list is not complete. It is just a demo list for now. It will be updated regularly. If you have any suggestions or if you want to contribute in this repository, please let us know- <a href="mailto:edu.semicolon@gmail.com" > E-mail Us </a>. Thank you! 
 
 
+<!-- Last updated: 30/09/23 -->
