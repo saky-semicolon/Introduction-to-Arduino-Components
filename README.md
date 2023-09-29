@@ -522,7 +522,20 @@
 <td></td>
 <td></td>
 </tr>
-
+<tr>
+<td colspan="5"><b><i>Total Amount:</i></b></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7"><b><i>Contributor:</i></b></td>
+</tr>
+<tr>
+<td colspan="7"><a href-"https://github.com/saky-semicolon"> S M Asiful Islam Saky @saky-semicolon </a> <br> Founder, <br> SEMICOLON <br> <a href="mailto:edu.semicolon@gmial.com" > Send e-mail </a> </td>
+</tr>
+<tr>
+<td colspan="7"><i>Thank you...</i></td>
+</tr>
 </table>
 
 
