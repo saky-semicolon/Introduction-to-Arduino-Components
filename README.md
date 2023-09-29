@@ -2,10 +2,15 @@
 <!-- Arduino, Electronics, Robotics, Sensors -->
 
 <h1 style="text-align:center;"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" width="15%" style="align:center;"> Arduino Components - SEMICOLON <img src="medias/logo.png" width="15%" style="align:center;"></h1>
+<img src="medias/cover pic.jpg" width="100%">
 <hr>
 <i>Ref no: Semicolon Tech/IoT/Arduino/Components-List-01<i>
 <br>
-<img src="medias/cover pic.jpg" width="100%">
+<br>
+
+Arduino is an open-source electronics platform that consists of both hardware and software components. The platform is designed to make it easy for beginners and professionals alike to create interactive electronic projects. 
+Remember that the specific components you need will vary depending on your project's requirements. Arduino's versatility allows you to build a wide range of projects, from simple LED blinking experiments to complex robotics and automation systems. Here are the main components of an Arduino setup:
+
 <table>
 <caption><b>Arduino Components List</b></caption>
 <tr>
