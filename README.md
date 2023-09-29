@@ -9,10 +9,10 @@
 <br>
 
 Arduino is an open-source electronics platform that consists of both hardware and software components. The platform is designed to make it easy for beginners and professionals alike to create interactive electronic projects. 
-Remember that the specific components you need will vary depending on your project's requirements. Arduino's versatility allows you to build a wide range of projects, from simple LED blinking experiments to complex robotics and automation systems. Here are the main components of an Arduino setup:
+Remember that the specific components you need will vary depending on your project's requirements. Arduino's versatility allows you to build a wide range of projects, from simple LED blinking experiments to complex robotics and automation systems. Here are the main components of an Arduino setup-
 
 <table>
-<caption style="color:green;" ><b>Arduino Components List</b></caption>
+<caption style="color:green;"><b>Arduino Components List: </b></caption>
 <tr>
 <th>SL No.</th>
 <th>Hardware Name</th>
@@ -541,6 +541,6 @@ Remember that the specific components you need will vary depending on your proje
 <td colspan="7"><i>Thank you...</i></td>
 </tr>
 </table>
-
+<b><i>Note: </i></b> This is a list of components for Arduino. The list is not complete. It is just a demo list for now. It will be updated regularly. If you have any suggestions or if you want to contribute in this repository, please let us know- <a href="mailto:edu.semicolon@gmial.com" > E-mail Us </a>. Thank you! 
 
 
