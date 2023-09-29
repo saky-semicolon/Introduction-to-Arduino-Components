@@ -387,6 +387,141 @@
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>41</td>
+<td>Long Shaft Gear Motor</td>
+<td>DIY/Arduino</td>
+<td></td>
+<td><img src="medias/G-M-41.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td>Double Shaft DC Motor</td>
+<td>DIY/Arduino</td>
+<td></td>
+<td><img src="medias/D-M-42.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td>Mini DC Motor</td>
+<td>DIY/Arduino</td>
+<td></td>
+<td><img src="medias/dc-43.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td>Soil Moisture Hygrometer Detection Sensor</td>
+<td>Arduino</td>
+<td>Humidity Sensor</td>
+<td><img src="medias/soil-44.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td>Micro-speed Gear Motor</td>
+<td>DIY/Arduino</td>
+<td>30 rpm</td>
+<td><img src="medias/micro speed-45.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td>TT Motor/ Gear Motor</td>
+<td>Arduino/DIY</td>
+<td>130 Motor</td>
+<td><img src="medias/tt-46.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td>Gear Motor Wheel</td>
+<td>Arduino Robot Car</td>
+<td></td>
+<td><img src="medias/wheel-47.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Snow/ Raindrop Detection Sensor</td>
+<td></td>
+<td></td>
+<td><img src="medias/snow-raindrop-48.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td>Stepper Motor Driver</td>
+<td>Speed Controller</td>
+<td>L298N</td>
+<td><img src="medias/motor-driver-49.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td>Mini Submersible Pump</td>
+<td>Water Pump for various projects</td>
+<td>3V~6V</td>
+<td><img src="medias/pump-50.png" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Mini Power Switch</td>
+<td></td>
+<td></td>
+<td><img src="medias/gears-51.jpg" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td><img src="medias/" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td><img src="medias/" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td><img src="medias/" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td><img src="medias/" width="300px"></td>
+<td></td>
+<td></td>
+</tr>
 
 </table>
 
