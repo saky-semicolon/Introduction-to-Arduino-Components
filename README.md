@@ -1,7 +1,7 @@
 <!-- Arduino Components-List -->
 <!-- Arduino, Electronics, Robotics, Sensors -->
 
-<p style="align:center;"> <h1>Arduino Components</h1> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" width="20%" style="align:center;"><p>
+<p style="align:center;"> <strong>Arduino Components</strong> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" width="20%" style="align:center;"><p>
 <h2 style="text-align:center;">SEMICOLON</h2>
 <img src="medias/logo.png" width="20%" style="align:center;">
 <h4 style="text-align:center;">Alor Setar, Kedah, Malaysia</h4>
